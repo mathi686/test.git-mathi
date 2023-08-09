@@ -22,3 +22,5 @@ output "public-ip" {
 output "INS-ID" {
   value = aws_instance.my-ec2-terraform.id
 }
+
+tt
